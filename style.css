@@ -1,0 +1,32 @@
+.headertext{
+    text-align: center;
+}
+
+#violetpfp{
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#body{
+    background-color: #FFE8A0;
+    font-family: monospace;
+    width: auto;
+}
+
+#footer{
+    padding-top: 5px;
+}
+
+#line{
+    width: 500px;
+}
+
+.images{
+    float: right;
+}
+
+.paragraph_text{
+    width: 500%;
+}
